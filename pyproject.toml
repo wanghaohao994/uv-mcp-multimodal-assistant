@@ -1,0 +1,36 @@
+[project]
+name = "uv-mcp-multimodal-assistant"
+version = "0.1.0"
+description = "基于Model-Control-Protocol（MCP）和大型语言模型构建的多模态智能助手系统"
+authors = [
+    {name = "Wang Chuhao", email = "wanghaohao994@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+    "mcp>=1.6.0",
+    "openai-whisper",
+    "sounddevice",
+    "scipy", 
+    "numpy",
+    "keyboard",
+    "openai",
+    "edge-tts",
+    "requests",
+    "python-dotenv",
+    "pydantic",
+    "rich",
+    "tqdm"
+]
+
+[project.urls]
+Homepage = "https://github.com/wanghaohao994/uv-mcp-multimodal-assistant"
+Repository = "https://github.com/wanghaohao994/uv-mcp-multimodal-assistant.git"
+
+[tool.setuptools]
+py-modules = ["client", "weatherMCP", "main"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

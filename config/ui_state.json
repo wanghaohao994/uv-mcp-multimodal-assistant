@@ -1,0 +1,8 @@
+{
+  "is_chat_visible": true,
+  "is_sidebar_visible": true,
+  "is_loading": false,
+  "current_tab": "chat",
+  "theme": "light",
+  "font_size": 14
+}

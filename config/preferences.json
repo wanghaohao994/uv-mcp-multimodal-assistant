@@ -1,0 +1,13 @@
+{
+  "max_history_length": 50,
+  "system_prompt": "你是一个有用的助手。",
+  "location": "重庆市永川区",
+  "venue": "时代天街",
+  "theme": "light",
+  "auto_save": true,
+  "tools_enabled": {
+    "weather": true,
+    "market": true,
+    "area_search": true
+  }
+}
