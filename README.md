@@ -125,14 +125,22 @@ OPENAI_API_KEY=ollama
 
 以下是MCP智能助手的主要界面截图：
 
-![Sequence](images/截屏2025-04-04 13.38.07.png)
-*图1：MCP智能助手工作序列*
+<div align="center">
+  <img src="images/截屏2025-04-04 13.38.07.png" alt="MCP智能助手工作序列" width="600"/>
+  <p>图1：MCP智能助手工作序列</p>
+</div>
 
-![architecture](images/截屏2025-04-04 13.43.05.png)
-*图2：MCP智能助手结构图*
+<div align="center">
+  <img src="images/截屏2025-04-04 13.43.05.png" alt="MCP智能助手结构图" width="600"/>
+  <p>图2：MCP智能助手结构图</p>
+</div>
 
-![Class](images/截屏2025-04-04 14.16.23.png)
-*图3：MCP智能助手UML图*
+<div align="center">
+  <img src="images/截屏2025-04-04 14.16.23.png" alt="MCP智能助手UML图" width="600"/>
+  <p>图3：MCP智能助手UML图</p>
+</div>
 
-![Flow](images/pintu-fulicat.com-1743746662583.jpg)
-*图4：MCP智能助手工作流程图*
+<div align="center">
+  <img src="images/pintu-fulicat.com-1743746662583.jpg" alt="MCP智能助手工作流程图" width="600"/>
+  <p>图4：MCP智能助手工作流程图</p>
+</div>
