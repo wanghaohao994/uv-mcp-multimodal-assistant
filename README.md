@@ -123,7 +123,7 @@ OPENAI_API_KEY=ollama
 1. 按上述配置好虚拟环境
 2. 启动应用
 
-以下是MCP智能助手的主要界面截图：
+以下是MCP智能助手的系统介绍：
 
 <div align="center">
   <img src="images/截屏2025-04-04 13.38.07.png" alt="MCP智能助手工作序列" width="600"/>
